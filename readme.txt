@@ -1,0 +1,1 @@
+Hello there! Let's get started with git-it!
